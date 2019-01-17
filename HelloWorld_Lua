@@ -1,0 +1,5 @@
+The print function takes a string and outputs this to the screen, so in the case of the 'Hello World' application we 
+were hoping to create, we could simply write something like this into a new '.lua' file and run the script
+------------------------------------------------------
+print("Hello World!")
+------------------------------------------------------
